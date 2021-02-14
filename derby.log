@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Feb 14 17:03:22 EET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0177-a111-4bbc-00000e589800 
+on database directory memory:C:\Users\silverko\IdeaProjects\bacchus-auctions-back\a4b36c5c-795c-4c28-94d1-2484dcdfdde0 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@69663380 
+Loaded from file:/C:/Users/silverko/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.6+8-LTS
+user.dir=C:\Users\silverko\IdeaProjects\bacchus-auctions-back
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
