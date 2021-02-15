@@ -1,0 +1,6 @@
+com\bacchus\bacchusauctionsback\models\Bid.class
+com\bacchus\bacchusauctionsback\controllers\ProductsController.class
+com\bacchus\bacchusauctionsback\controllers\BidController.class
+com\bacchus\bacchusauctionsback\BacchusAuctionsBackApplication.class
+com\bacchus\bacchusauctionsback\repositories\BidRepository.class
+com\bacchus\bacchusauctionsback\services\BidService.class
