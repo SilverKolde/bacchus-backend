@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@CrossOrigin(origins = "http://127.0.0.1:8080")
+@CrossOrigin(origins = "http://localhost:8080")
 @RestController
 public class BidController {
 

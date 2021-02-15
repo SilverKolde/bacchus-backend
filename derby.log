@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Sun Feb 14 17:03:22 EET 2021:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0177-a111-4bbc-00000e589800 
-on database directory memory:C:\Users\silverko\IdeaProjects\bacchus-auctions-back\a4b36c5c-795c-4c28-94d1-2484dcdfdde0 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@69663380 
+Mon Feb 15 10:25:53 EET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0177-a4cb-c2be-00000ecc90f0 
+on database directory memory:C:\Users\silverko\IdeaProjects\bacchus-auctions-back\dc45cdbe-822d-4ea2-932b-43cc00c43a64 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2437c6dc 
 Loaded from file:/C:/Users/silverko/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=11.0.6+8-LTS
